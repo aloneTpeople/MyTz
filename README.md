@@ -1,4 +1,4 @@
-GitHub地址：
+GitHub地址：https://github.com/aloneTpeople/MyTz.git
 代码详解：
 该代码使用拒绝采样法生成服从特定密度分布 ρ(r) 的随机样本，并通过可视化验证采样结果与理论分布的一致性。
 import numpy as np
